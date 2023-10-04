@@ -1,0 +1,213 @@
+country_id,product,product_code,flow,unit,year,value
+Albania,pulpwood,11,EXPORTS,1000 m.t.,2013,0.01
+Albania,roundwood,14,EXPORTS,1000 m3,2013,88.37
+Albania,sawnwood,16,EXPORTS,1000 m3,2013,35.17
+Albania,wood fuel,21,EXPORTS,1000 m3,2013,75.9
+Armenia,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Armenia,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Armenia,sawnwood,16,EXPORTS,1000 m3,2013,0.42
+Armenia,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Austria,pulpwood,11,EXPORTS,1000 m.t.,2013,435.88
+Austria,roundwood,14,EXPORTS,1000 m3,2013,4074.1
+Austria,sawnwood,16,EXPORTS,1000 m3,2013,15375.74
+Austria,wood fuel,21,EXPORTS,1000 m3,2013,58.25
+Azerbaijan,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Azerbaijan,roundwood,14,EXPORTS,1000 m3,2013,0.01
+Azerbaijan,sawnwood,16,EXPORTS,1000 m3,2013,2.26
+Azerbaijan,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Belarus,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Belarus,roundwood,14,EXPORTS,1000 m3,2013,12081.54
+Belarus,sawnwood,16,EXPORTS,1000 m3,2013,2893.7000000000003
+Belarus,wood fuel,21,EXPORTS,1000 m3,2013,40.64
+Belgium,pulpwood,11,EXPORTS,1000 m.t.,2013,843.97
+Belgium,roundwood,14,EXPORTS,1000 m3,2013,5674.86
+Belgium,sawnwood,16,EXPORTS,1000 m3,2013,3818.32
+Belgium,wood fuel,21,EXPORTS,1000 m3,2013,25.4
+Bosnia and Herzegovina,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Bosnia and Herzegovina,roundwood,14,EXPORTS,1000 m3,2013,1258.21
+Bosnia and Herzegovina,sawnwood,16,EXPORTS,1000 m3,2013,1785.51
+Bosnia and Herzegovina,wood fuel,21,EXPORTS,1000 m3,2013,707.0
+Bulgaria,pulpwood,11,EXPORTS,1000 m.t.,2013,107.18
+Bulgaria,roundwood,14,EXPORTS,1000 m3,2013,1780.0
+Bulgaria,sawnwood,16,EXPORTS,1000 m3,2013,1004.5
+Bulgaria,wood fuel,21,EXPORTS,1000 m3,2013,372.74
+Canada,pulpwood,11,EXPORTS,1000 m.t.,2013,9822.31
+Canada,roundwood,14,EXPORTS,1000 m3,2013,34823.47
+Canada,sawnwood,16,EXPORTS,1000 m3,2013,84002.68000000001
+Canada,wood fuel,21,EXPORTS,1000 m3,2013,38.73
+Croatia,pulpwood,11,EXPORTS,1000 m.t.,2013,39.71
+Croatia,roundwood,14,EXPORTS,1000 m3,2013,3103.35
+Croatia,sawnwood,16,EXPORTS,1000 m3,2013,2653.9300000000003
+Croatia,wood fuel,21,EXPORTS,1000 m3,2013,707.84
+Cyprus,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Cyprus,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Cyprus,sawnwood,16,EXPORTS,1000 m3,2013,0.0
+Cyprus,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Czechia,pulpwood,11,EXPORTS,1000 m.t.,2013,405.87
+Czechia,roundwood,14,EXPORTS,1000 m3,2013,21657.49
+Czechia,sawnwood,16,EXPORTS,1000 m3,2013,6920.42
+Czechia,wood fuel,21,EXPORTS,1000 m3,2013,172.0
+Denmark,pulpwood,11,EXPORTS,1000 m.t.,2013,12.62
+Denmark,roundwood,14,EXPORTS,1000 m3,2013,3362.11
+Denmark,sawnwood,16,EXPORTS,1000 m3,2013,445.21
+Denmark,wood fuel,21,EXPORTS,1000 m3,2013,113.14
+Estonia,pulpwood,11,EXPORTS,1000 m.t.,2013,138.01
+Estonia,roundwood,14,EXPORTS,1000 m3,2013,13846.94
+Estonia,sawnwood,16,EXPORTS,1000 m3,2013,2354.14
+Estonia,wood fuel,21,EXPORTS,1000 m3,2013,333.6
+Finland,pulpwood,11,EXPORTS,1000 m.t.,2013,3073.49
+Finland,roundwood,14,EXPORTS,1000 m3,2013,3990.19
+Finland,sawnwood,16,EXPORTS,1000 m3,2013,21445.95
+Finland,wood fuel,21,EXPORTS,1000 m3,2013,109.2
+France,pulpwood,11,EXPORTS,1000 m.t.,2013,481.83
+France,roundwood,14,EXPORTS,1000 m3,2013,23787.79
+France,sawnwood,16,EXPORTS,1000 m3,2013,2765.36
+France,wood fuel,21,EXPORTS,1000 m3,2013,750.46
+Georgia,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Georgia,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Georgia,sawnwood,16,EXPORTS,1000 m3,2013,106.6
+Georgia,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Germany,pulpwood,11,EXPORTS,1000 m.t.,2013,1272.0
+Germany,roundwood,14,EXPORTS,1000 m3,2013,16604.49
+Germany,sawnwood,16,EXPORTS,1000 m3,2013,18759.67
+Germany,wood fuel,21,EXPORTS,1000 m3,2013,117.73
+Greece,pulpwood,11,EXPORTS,1000 m.t.,2013,7.15
+Greece,roundwood,14,EXPORTS,1000 m3,2013,100.53
+Greece,sawnwood,16,EXPORTS,1000 m3,2013,41.38
+Greece,wood fuel,21,EXPORTS,1000 m3,2013,4.86
+Hungary,pulpwood,11,EXPORTS,1000 m.t.,2013,4.55
+Hungary,roundwood,14,EXPORTS,1000 m3,2013,5099.23
+Hungary,sawnwood,16,EXPORTS,1000 m3,2013,742.27
+Hungary,wood fuel,21,EXPORTS,1000 m3,2013,323.01
+Iceland,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Iceland,roundwood,14,EXPORTS,1000 m3,2013,0.01
+Iceland,sawnwood,16,EXPORTS,1000 m3,2013,0.41
+Iceland,wood fuel,21,EXPORTS,1000 m3,2013,0.01
+Ireland,pulpwood,11,EXPORTS,1000 m.t.,2013,0.16
+Ireland,roundwood,14,EXPORTS,1000 m3,2013,1430.36
+Ireland,sawnwood,16,EXPORTS,1000 m3,2013,1203.32
+Ireland,wood fuel,21,EXPORTS,1000 m3,2013,0.27
+Israel,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Israel,roundwood,14,EXPORTS,1000 m3,2013,3.24
+Israel,sawnwood,16,EXPORTS,1000 m3,2013,0.7000000000000001
+Israel,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Italy,pulpwood,11,EXPORTS,1000 m.t.,2013,35.33
+Italy,roundwood,14,EXPORTS,1000 m3,2013,974.37
+Italy,sawnwood,16,EXPORTS,1000 m3,2013,735.69
+Italy,wood fuel,21,EXPORTS,1000 m3,2013,11.18
+Kazakhstan,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Kazakhstan,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Kazakhstan,sawnwood,16,EXPORTS,1000 m3,2013,0.76
+Kazakhstan,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Kyrgyzstan,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Kyrgyzstan,roundwood,14,EXPORTS,1000 m3,2013,0.32
+Kyrgyzstan,sawnwood,16,EXPORTS,1000 m3,2013,2.6
+Kyrgyzstan,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Latvia,pulpwood,11,EXPORTS,1000 m.t.,2013,0.09
+Latvia,roundwood,14,EXPORTS,1000 m3,2013,18537.07
+Latvia,sawnwood,16,EXPORTS,1000 m3,2013,6606.27
+Latvia,wood fuel,21,EXPORTS,1000 m3,2013,293.95
+Liechtenstein,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Liechtenstein,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Liechtenstein,sawnwood,16,EXPORTS,1000 m3,2013,0.0
+Liechtenstein,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Lithuania,pulpwood,11,EXPORTS,1000 m.t.,2013,31.9
+Lithuania,roundwood,14,EXPORTS,1000 m3,2013,9247.1
+Lithuania,sawnwood,16,EXPORTS,1000 m3,2013,1828.53
+Lithuania,wood fuel,21,EXPORTS,1000 m3,2013,235.6
+Luxembourg,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Luxembourg,roundwood,14,EXPORTS,1000 m3,2013,1802.0
+Luxembourg,sawnwood,16,EXPORTS,1000 m3,2013,155.45000000000002
+Luxembourg,wood fuel,21,EXPORTS,1000 m3,2013,48.11
+Malta,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Malta,roundwood,14,EXPORTS,1000 m3,2013,0.05
+Malta,sawnwood,16,EXPORTS,1000 m3,2013,0.0
+Malta,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Montenegro,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Montenegro,roundwood,14,EXPORTS,1000 m3,2013,329.33
+Montenegro,sawnwood,16,EXPORTS,1000 m3,2013,238.0
+Montenegro,wood fuel,21,EXPORTS,1000 m3,2013,11.59
+Netherlands,pulpwood,11,EXPORTS,1000 m.t.,2013,763.77
+Netherlands,roundwood,14,EXPORTS,1000 m3,2013,2226.5
+Netherlands,sawnwood,16,EXPORTS,1000 m3,2013,1149.41
+Netherlands,wood fuel,21,EXPORTS,1000 m3,2013,69.5
+North Macedonia,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+North Macedonia,roundwood,14,EXPORTS,1000 m3,2013,14.419999999999998
+North Macedonia,sawnwood,16,EXPORTS,1000 m3,2013,15.2
+North Macedonia,wood fuel,21,EXPORTS,1000 m3,2013,9.79
+Norway,pulpwood,11,EXPORTS,1000 m.t.,2013,464.24
+Norway,roundwood,14,EXPORTS,1000 m3,2013,13133.16
+Norway,sawnwood,16,EXPORTS,1000 m3,2013,1508.5
+Norway,wood fuel,21,EXPORTS,1000 m3,2013,10.39
+Poland,pulpwood,11,EXPORTS,1000 m.t.,2013,87.47
+Poland,roundwood,14,EXPORTS,1000 m3,2013,14388.27
+Poland,sawnwood,16,EXPORTS,1000 m3,2013,1625.87
+Poland,wood fuel,21,EXPORTS,1000 m3,2013,236.74
+Portugal,pulpwood,11,EXPORTS,1000 m.t.,2013,1165.93
+Portugal,roundwood,14,EXPORTS,1000 m3,2013,6267.42
+Portugal,sawnwood,16,EXPORTS,1000 m3,2013,1388.27
+Portugal,wood fuel,21,EXPORTS,1000 m3,2013,8.29
+Republic of Moldova,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Republic of Moldova,roundwood,14,EXPORTS,1000 m3,2013,1.29
+Republic of Moldova,sawnwood,16,EXPORTS,1000 m3,2013,4.140000000000001
+Republic of Moldova,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Romania,pulpwood,11,EXPORTS,1000 m.t.,2013,0.12
+Romania,roundwood,14,EXPORTS,1000 m3,2013,2677.94
+Romania,sawnwood,16,EXPORTS,1000 m3,2013,9651.54
+Romania,wood fuel,21,EXPORTS,1000 m3,2013,293.14
+Russian Federation,pulpwood,11,EXPORTS,1000 m.t.,2013,1976.49
+Russian Federation,roundwood,14,EXPORTS,1000 m3,2013,93063.45
+Russian Federation,sawnwood,16,EXPORTS,1000 m3,2013,57631.49
+Russian Federation,wood fuel,21,EXPORTS,1000 m3,2013,149.09
+Serbia,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Serbia,roundwood,14,EXPORTS,1000 m3,2013,147.04
+Serbia,sawnwood,16,EXPORTS,1000 m3,2013,397.37
+Serbia,wood fuel,21,EXPORTS,1000 m3,2013,32.22
+Slovakia,pulpwood,11,EXPORTS,1000 m.t.,2013,182.63
+Slovakia,roundwood,14,EXPORTS,1000 m3,2013,13724.16
+Slovakia,sawnwood,16,EXPORTS,1000 m3,2013,1621.23
+Slovakia,wood fuel,21,EXPORTS,1000 m3,2013,459.65
+Slovenia,pulpwood,11,EXPORTS,1000 m.t.,2013,3.89
+Slovenia,roundwood,14,EXPORTS,1000 m3,2013,6281.05
+Slovenia,sawnwood,16,EXPORTS,1000 m3,2013,3339.58
+Slovenia,wood fuel,21,EXPORTS,1000 m3,2013,351.44
+Spain,pulpwood,11,EXPORTS,1000 m.t.,2013,1183.59
+Spain,roundwood,14,EXPORTS,1000 m3,2013,12516.15
+Spain,sawnwood,16,EXPORTS,1000 m3,2013,426.78
+Spain,wood fuel,21,EXPORTS,1000 m3,2013,98.03
+Sweden,pulpwood,11,EXPORTS,1000 m.t.,2013,3434.79
+Sweden,roundwood,14,EXPORTS,1000 m3,2013,3799.89
+Sweden,sawnwood,16,EXPORTS,1000 m3,2013,34287.55
+Sweden,wood fuel,21,EXPORTS,1000 m3,2013,18.9
+Switzerland,pulpwood,11,EXPORTS,1000 m.t.,2013,0.71
+Switzerland,roundwood,14,EXPORTS,1000 m3,2013,3149.13
+Switzerland,sawnwood,16,EXPORTS,1000 m3,2013,410.78
+Switzerland,wood fuel,21,EXPORTS,1000 m3,2013,10.0
+Tajikistan,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Tajikistan,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Tajikistan,sawnwood,16,EXPORTS,1000 m3,2013,0.0
+Tajikistan,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Turkey,pulpwood,11,EXPORTS,1000 m.t.,2013,30.9
+Turkey,roundwood,14,EXPORTS,1000 m3,2013,15.03
+Turkey,sawnwood,16,EXPORTS,1000 m3,2013,61.68
+Turkey,wood fuel,21,EXPORTS,1000 m3,2013,2.0
+Turkmenistan,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Turkmenistan,roundwood,14,EXPORTS,1000 m3,2013,0.0
+Turkmenistan,sawnwood,16,EXPORTS,1000 m3,2013,0.0
+Turkmenistan,wood fuel,21,EXPORTS,1000 m3,2013,0.0
+Ukraine,pulpwood,11,EXPORTS,1000 m.t.,2013,0.0
+Ukraine,roundwood,14,EXPORTS,1000 m3,2013,16989.03
+Ukraine,sawnwood,16,EXPORTS,1000 m3,2013,3992.68
+Ukraine,wood fuel,21,EXPORTS,1000 m3,2013,1064.56
+United Kingdom,pulpwood,11,EXPORTS,1000 m.t.,2013,11.0
+United Kingdom,roundwood,14,EXPORTS,1000 m3,2013,3536.38
+United Kingdom,sawnwood,16,EXPORTS,1000 m3,2013,384.29
+United Kingdom,wood fuel,21,EXPORTS,1000 m3,2013,385.69
+United States,pulpwood,11,EXPORTS,1000 m.t.,2013,8079.81
+United States,roundwood,14,EXPORTS,1000 m3,2013,70756.94
+United States,sawnwood,16,EXPORTS,1000 m3,2013,17670.1
+United States,wood fuel,21,EXPORTS,1000 m3,2013,428.33
+Uzbekistan,pulpwood,11,EXPORTS,1000 m.t.,2013,1.89
+Uzbekistan,roundwood,14,EXPORTS,1000 m3,2013,0.2
+Uzbekistan,sawnwood,16,EXPORTS,1000 m3,2013,20.56
+Uzbekistan,wood fuel,21,EXPORTS,1000 m3,2013,0.0
