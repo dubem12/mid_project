@@ -1,10 +1,10 @@
 Purpose of your project
 The study used data that produces  statistical annex to Forest Products Annual Market Review 2021-2022 production and trade data for 2017-2021 for main forest products showing largest producers and traders
 We aim to 
-- find out the biggest exporters of selected raw materials
+- find out the biggest exporters of selected raw materials,compared to woodfuel
 - compute volume of goods abnd price obtained per metric unit of exported goods
-- compare trade deficit for selected countries
-- explore german´s harvest and export ratio for roundwood
+- compare balance of trade with emphasis on trade deficit for selected countries
+- explore german´s harvest and export ratio for roundwood, to further understand local industry consumption and with more data investigate wastage
 - engineering wood production in year 2020
 
 Some of our findings are
